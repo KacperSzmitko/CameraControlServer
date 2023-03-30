@@ -1,0 +1,5 @@
+records/*
+dist/*
+*.egg-info/*
+__pycache__/*
+Pipfile.lock
